@@ -1,6 +1,6 @@
 # Justins_Macropad
 
-A 5-key macropad with RGB underglow and OLED display, built around the Seeed XIAO RP2040. Designed for general shortcuts and everyday productivity.
+A 5-key macropad with RGB underglow and OLED display, built around the Seeed XIAO RP2040. Designed for general shortcuts and everyday productivity. Macropad was designed off a sketch of my fingers so its perfectly ergonomic :)
 
 ---
 
@@ -48,7 +48,7 @@ This is my first PCB I am planning to manafacture, I used fusion to create the l
 
 ## Firmware
 
-This macropad runs [KMK](https://github.com/KMKfw/kmk_firmware) on CircuitPython. Code is currently a little bit vibe coded :)
+This macropad runs [KMK](https://github.com/KMKfw/kmk_firmware) on CircuitPython.
 
 ### Setup
 
