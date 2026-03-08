@@ -6,7 +6,7 @@ A 5-key macropad with RGB underglow and OLED display, built around the Seeed XIA
 
 ## Challenges
 
-This is my first PCB I am planning to manafacture, I used fusion to create the layout using a dxf using a sketch on paper. The keys are positioned to the size and position of my hand. After multiple changes I was eventually happy with the result. Fusion360 was used for 3D modelling with no issues.
+This is my first PCB I am planning to manufacture, I used fusion to create the layout using a dxf using a sketch on paper. The keys are positioned to the size and position of my hand. After multiple changes I was eventually happy with the result. Fusion360 was used for 3D modelling with no issues.
 
 ---
 
